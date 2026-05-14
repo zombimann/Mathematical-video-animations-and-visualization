@@ -1,9 +1,6 @@
 
 
 
-https://github.com/user-attachments/assets/d9e65efe-72e7-4ea1-ba82-8eea6566cf0d
-
-
 https://github.com/user-attachments/assets/5d6503da-1194-4e2d-b682-94224454e642
 
 
