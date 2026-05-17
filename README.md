@@ -6,7 +6,7 @@ I may not always be 100% correct about all elements, but I make an honest effort
 
 In future, I will take time to add captions to the videos here to help who might want to find relevant educational aids. Contribution will be appreciated.
 
-I do make extensive use of AI, particularly code assistants as well as VLMs to review the videos made. I am greatful that these resources exist almost for free and that they can be put into useful work in educationg the public on Math / Science / Engineering concepts.
+I do make extensive use of AI, particularly code assistants as well as VLMs to review the videos made. I am greatful that these resources exist almost for free and that they can be put into useful work in educating the public on Math / Science / Engineering concepts.
 
 The videos here are without audio - on purpose - to give space to anyone who might want add their own. You can use or modify with attribution, but even that is not set in stone. I hope some of these videos will inspire someone to take up mathematics / science.
 
