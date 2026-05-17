@@ -2,7 +2,7 @@
 
 All code and videos on this repository are given out to anyone for free in perpetuity. Feel free to modify anything with no restrictions. The idea is to create as many mathematics, science and engineering educational aids that are freely available. I will try to cover a large number of diverse topics - including some that may not be well explored in the visual domain.
 
-I may not always be 100% correct about all elements, but I make an honest effort to be. You can report any issues here or even suggest modifications and that will be greatly appreciated. I a few weeks I will pause creating new material and instead go back reviewing documents for correctness, completeness and greater engagement - if possible
+I may not always be 100% correct about all elements, but I make an honest effort to be. You can report any issues here or even suggest modifications and that will be greatly appreciated. In a few weeks I will pause creating new material and instead go back reviewing all notebooks and videos for correctness, completeness and greater engagement - if possible
 
 In future, I will take time to add captions to the videos here to help who might want to find relevant educational aids. Contribution will be appreciated.
 
