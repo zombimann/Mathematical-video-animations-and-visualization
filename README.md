@@ -2,11 +2,15 @@
 
 All code and videos on this repository are given out to anyone for free in perpetuity. Feel free to modify anything with no restrictions. The idea is to create as many mathematics, science and engineering educational aids that are freely available. I will try to cover a large number of diverse topics - including some that may not be well explored in the visual domain.
 
-The videos here are without audio - on purpose - to give space to anyone who might want add their own. You can use or modify with attribution, but even that is not set in stone. I hope some of these videos will inspire someone to take up mathematics / science.
+I may not always be 100% correct about all elements, but I make an honest effort to be. You can report any issues here or even suggest modifications and that will be greatly appreciated. I a few weeks I will pause creating new material and instead go back reviewing documents for correctness, completeness and greater engagement - if possible
 
 In future, I will take time to add captions to the videos here to help who might want to find relevant educational aids. Contribution will be appreciated.
 
-Videos with captions currently available at www.instagram.com/craftsandengineering
+I do make extensive use of AI, particularly code assistants as well as VLMs to review the videos made. I am greatful that these resources exist almost for free and that they can be put into useful work in educationg the public on Math / Science / Engineering concepts.
+
+The videos here are without audio - on purpose - to give space to anyone who might want add their own. You can use or modify with attribution, but even that is not set in stone. I hope some of these videos will inspire someone to take up mathematics / science.
+
+Videos with audio (mostly) and captions are currently available at www.instagram.com/craftsandengineering and https://www.tiktok.com/@zoomzoombee
 
 "The highest form of pure thought is in mathematics", Plato.
 
