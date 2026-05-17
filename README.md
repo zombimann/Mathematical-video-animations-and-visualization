@@ -2,6 +2,10 @@ All code and videos on this repository are given out to anyone for free in perpe
 
 The videos here are without audio - on purpose - to give space to anyone who might want add their own. You can use or modify with attribution, but even that is not set in stone. I hope some of these videos will inspire someone to take up mathematics / science.
 
+In future, I will take time to add captions to the videos here to help who might want to find relevant educational aids. Contribution will be appreciated.
+
+Videos available at www.instagram.com/craftsandengineering
+
 "The highest form of pure thought is in mathematics", Plato.
 
 "Hapo kuna venye amegonga point", Mugambi.
