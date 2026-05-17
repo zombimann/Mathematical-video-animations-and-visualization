@@ -17,7 +17,10 @@ Videos with audio (mostly) and captions are currently available at www.instagram
 "Hapo kuna venye amegonga point", Mugambi.
 
 
-https://github.com/user-attachments/assets/cb052369-52b5-4df0-bc93-df8c0661fe0f
+
+
+
+https://github.com/user-attachments/assets/bd8a02cf-995c-43d7-860c-900a4e118e64
 
 
 https://github.com/user-attachments/assets/3d11b11b-74bf-4dbe-9d30-83ce7f65ab43
