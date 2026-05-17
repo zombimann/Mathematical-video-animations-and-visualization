@@ -1,4 +1,4 @@
-All code and videos on this repository are given out to anyone for free in perpetuity. Feel free to modify anything with no restrictions. The idea is to create as many mathematics, science and engineering aids that are freely available. I will try to cover a large number of diverse topics - including some that may not be well explored in the visual domain.
+All code and videos on this repository are given out to anyone for free in perpetuity. Feel free to modify anything with no restrictions. The idea is to create as many mathematics, science and engineering educational aids that are freely available. I will try to cover a large number of diverse topics - including some that may not be well explored in the visual domain.
 
 The videos here are without audio - on purpose - to give space to anyone who might want add their own. You can use or modify with attribution, but even that is not set in stone. I hope some of these videos will inspired someone to take up mathematics / science.
 
