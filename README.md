@@ -4,7 +4,7 @@ The videos here are without audio - on purpose - to give space to anyone who mig
 
 In future, I will take time to add captions to the videos here to help who might want to find relevant educational aids. Contribution will be appreciated.
 
-Videos available at www.instagram.com/craftsandengineering
+Videos with captions currently available at www.instagram.com/craftsandengineering
 
 "The highest form of pure thought is in mathematics", Plato.
 
