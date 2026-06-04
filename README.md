@@ -10,7 +10,7 @@ I do make extensive use of AI, particularly code assistants as well as VLMs to r
 
 The videos here are without audio - on purpose - to give space to anyone who might want add their own. You can use or modify with attribution, but even that is not set in stone. I hope some of these videos will inspire someone to take up mathematics / science.
 
-Videos with audio (mostly) and captions are currently available at www.instagram.com/craftsandengineering and https://www.tiktok.com/@zoomzoombee
+Videos with audio (mostly) and captions are currently available at www.instagram.com/craftsandengineering, youtube.com/@DesignsandSimulations/shorts and https://www.tiktok.com/@zoomzoombee
 
 "The highest form of pure thought is in mathematics", Plato.
 
@@ -33,6 +33,10 @@ Videos with audio (mostly) and captions are currently available at www.instagram
 
 
 
+
+
+
+https://github.com/user-attachments/assets/d5369ae5-c2fc-452c-a5f4-57a27a26b50c
 
 
 https://github.com/user-attachments/assets/678ad502-6b8f-49de-a75f-6d9005639eb1
