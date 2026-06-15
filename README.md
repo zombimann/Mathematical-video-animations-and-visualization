@@ -50,6 +50,13 @@ Linear Algebra is currently the most widely applied branch of Mathematics for a 
 
 
 
+
+https://github.com/user-attachments/assets/f23c8311-d011-4ce0-908a-1f97f00d0f37
+
+
+https://github.com/user-attachments/assets/d1de4cca-4bfa-4e64-83c1-a9942b022362
+
+
 https://github.com/user-attachments/assets/344b72bd-2a2d-4b1b-b2de-92b2343d3515
 
 
