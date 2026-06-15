@@ -18,6 +18,12 @@ Videos with audio (mostly) and captions are currently available at www.instagram
 
 
 
+# Plugs
+Please explore the amazing work being done by Eteri Byazrova and Yuri Morozov at GraphMath / Linear Algebra World: https://www.graphmath.com/la/ .
+Linear Algebra is currently the most widely applied branch of Mathematics for a wide range of diverse application.
+
+
+
 
 
 
